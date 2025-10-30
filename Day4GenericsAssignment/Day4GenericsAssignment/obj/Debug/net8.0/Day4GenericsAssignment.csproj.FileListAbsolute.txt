@@ -1,0 +1,15 @@
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/bin/Debug/net8.0/Day4GenericsAssignment
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/bin/Debug/net8.0/Day4GenericsAssignment.deps.json
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/bin/Debug/net8.0/Day4GenericsAssignment.runtimeconfig.json
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/bin/Debug/net8.0/Day4GenericsAssignment.dll
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/bin/Debug/net8.0/Day4GenericsAssignment.pdb
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.AssemblyInfoInputs.cache
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.AssemblyInfo.cs
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.csproj.CoreCompileInputs.cache
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.sourcelink.json
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.dll
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/refint/Day4GenericsAssignment.dll
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.pdb
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/Day4GenericsAssignment.genruntimeconfig.cache
+/Users/zeyushen/Documents/antra/csharp/Day4GenericsAssignment/Day4GenericsAssignment/obj/Debug/net8.0/ref/Day4GenericsAssignment.dll
